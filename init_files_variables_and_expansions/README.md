@@ -11,4 +11,5 @@
 <li><strong>7-create_global_variable</strong> : Create a script that creates a new global variable = Name: BEST + Value: School</li>
 <li><strong>8-true_knowledge</strong> : Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line</li>
 <li><strong>9-divide_and_rule</strong> : Prints the result of POWER divided by DIVIDE, followed by a new line</li>
+<li><strong>10-love_exponent_breath</strong> : Displays the result of BREATH to the power LOVE</li>
 </ul>
