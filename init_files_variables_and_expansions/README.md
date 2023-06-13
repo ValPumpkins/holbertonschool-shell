@@ -12,5 +12,6 @@
 <li><strong>8-true_knowledge</strong> : Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line</li>
 <li><strong>9-divide_and_rule</strong> : Prints the result of POWER divided by DIVIDE, followed by a new line</li>
 <li><strong>10-love_exponent_breath</strong> : Displays the result of BREATH to the power LOVE</li>
-<li><strong>11-binary_to_decimal</strong> : converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY</li>
+<li><strong>11-binary_to_decimal</strong> : Converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY</li>
+<li><strong>12-combinations</strong> : Prints all possible combinations of two letters, except oo</li>
 </ul>
