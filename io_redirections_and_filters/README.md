@@ -10,4 +10,6 @@
 <li><strong>6-third_line</strong> : Displays the third line of the file iacta</li>
 <li><strong>7-file</strong> : Creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line</li>
 <li><strong>8-cwd_state</strong> : Writes into the file ls_cwd_content the result of the command ls -la</li>
+<li><strong>9-duplicate_last_line</strong> : Duplicates the last line of the file iacta</li>
+<li><strong>10-no_more_js</strong> : Deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders</li>
 </ul>
