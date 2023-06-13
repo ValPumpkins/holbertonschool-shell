@@ -6,5 +6,5 @@
 <li><strong>2-path</strong> : Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.</li>
 <li><strong>3-paths</strong> : Counts the number of directories in the PATH</li>
 <li><strong>4-global_variables</strong> : Create a script that lists environment variables</li>
-
+<li><strong>5-local_variables</strong> : Lists all local variables and environment variables, and functions</li>
 </ul>
