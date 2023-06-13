@@ -9,4 +9,5 @@
 <li><strong>5-local_variables</strong> : Lists all local variables and environment variables, and functions</li>
 <li><strong>6-create_local_variable</strong> : Create a script that creates a new local variable = Name: BEST + Value: School</li>
 <li><strong>7-create_global_variable</strong> : Create a script that creates a new global variable = Name: BEST + Value: School</li>
+<li><strong>8-true_knowledge</strong> : Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line</li>
 </ul>
