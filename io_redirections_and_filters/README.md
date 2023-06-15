@@ -26,4 +26,5 @@
 <li><strong>22-users_and_homes</strong> : Write a script that displays all users and their home directories, sorted by users, based on the the /etc/passwd file</li>
 <li><strong>23-empty_casks</strong> : finds all empty files and directories in the current directory and all sub-directories (Only the names of the files and directories should be displayed (not the entire path), hidden files should be listed, one file name per line, should end with a new line, not allowed to use basename, grep, egrep, fgrep or rgrep)</li>
 <li><strong>24-gifs</strong> : Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories (hidden files should be listed, only regular files (not directories) should be listed, should be displayed without their extensions, should be sorted by byte values, but case-insensitive)</li>
+<li><strong>25-acrostic</strong> : Decodes acrostics that use the first letter of each line</li>
 </ul>
