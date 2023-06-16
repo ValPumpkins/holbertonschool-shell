@@ -16,4 +16,5 @@
 <li><strong>12-combinations</strong> : Prints all possible combinations of two letters, except oo</li>
 <li><strong>13-print_float</strong> : Prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM</li>
 <li><strong>14-decimal_to_hexadecimal</strong> : Converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable DECIMAL</li>
+<li><strong>15-rot13</strong> : Encodes and decodes text using the rot13 encryption. Assume ASCII</li>
 </ul>
